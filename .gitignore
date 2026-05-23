@@ -1,0 +1,22 @@
+# Java
+*.class
+*.log
+
+# Compiled files
+bin/
+out/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database (optional)
+*.db
+*.sql
+
+# Environment
+.env
